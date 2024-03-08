@@ -1,0 +1,11 @@
+/home/youssef/Embedded_Linux_WS/App_Development/FileHandlerProject/Build/CMakeFiles/edit_cache.dir
+/home/youssef/Embedded_Linux_WS/App_Development/FileHandlerProject/Build/CMakeFiles/rebuild_cache.dir
+/home/youssef/Embedded_Linux_WS/App_Development/FileHandlerProject/Build/File_Handler/CMakeFiles/fh.dir
+/home/youssef/Embedded_Linux_WS/App_Development/FileHandlerProject/Build/File_Handler/CMakeFiles/edit_cache.dir
+/home/youssef/Embedded_Linux_WS/App_Development/FileHandlerProject/Build/File_Handler/CMakeFiles/rebuild_cache.dir
+/home/youssef/Embedded_Linux_WS/App_Development/FileHandlerProject/Build/Requester/CMakeFiles/requester.dir
+/home/youssef/Embedded_Linux_WS/App_Development/FileHandlerProject/Build/Requester/CMakeFiles/edit_cache.dir
+/home/youssef/Embedded_Linux_WS/App_Development/FileHandlerProject/Build/Requester/CMakeFiles/rebuild_cache.dir
+/home/youssef/Embedded_Linux_WS/App_Development/FileHandlerProject/Build/Logger/CMakeFiles/Logger.dir
+/home/youssef/Embedded_Linux_WS/App_Development/FileHandlerProject/Build/Logger/CMakeFiles/edit_cache.dir
+/home/youssef/Embedded_Linux_WS/App_Development/FileHandlerProject/Build/Logger/CMakeFiles/rebuild_cache.dir
